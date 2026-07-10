@@ -1,0 +1,178 @@
+# Prompt 2 — Write Full eBook Chapters
+
+> **Use this prompt after generating the eBook outline. Repeat this prompt for each chapter.**
+
+---
+
+# Objective
+
+Write, structure, and export a **complete chapter** for the eBook.
+
+**Current Chapter:** *Introduction*
+
+Generate **only the current chapter** in a separate editable Canvas.
+
+---
+
+# Step 1 — Write the Introduction Chapter
+
+Follow this exact structure.
+
+## Chapter Title (H1)
+
+Create a clear, engaging chapter title.
+
+---
+
+## Major Sections (H2)
+
+Break the chapter into logical sections.
+
+Each section may include supporting **H3** headings where appropriate.
+
+---
+
+## Content Requirements
+
+For every section:
+
+- Write detailed, engaging content.
+- Use **true Microsoft Word formatting** for:
+  - Headings
+  - Bold text
+  - Italics
+- **Do not use Markdown formatting.**
+- Use proper automatic:
+  - Numbered lists
+  - Bulleted lists
+- **Do not manually type** numbering such as `1.` or bullets like `•`.
+
+Include, where appropriate:
+
+- Tables
+- Frameworks
+- Blueprints
+- Visual dividers
+- Checklists
+- Comparison charts
+
+Add practical learning elements such as:
+
+- ChatGPT/AI prompts
+- Real-life examples
+- Mini case studies
+- Reflection questions
+- Practical exercises
+
+---
+
+## End the Chapter With
+
+### Key Takeaways
+
+Provide a concise bulleted summary of the chapter's most important lessons.
+
+### Next Chapter Preview
+
+Write a short teaser introducing what readers will learn in the next chapter.
+
+---
+
+# Step 2 — Tone & Style Requirements
+
+Write in a style that is:
+
+- Practical
+- Motivational
+- Friendly
+- Encouraging
+- Supportive
+
+The writing should feel like guidance from a:
+
+- Digital mentor
+- Life coach
+
+Use a teaching style that:
+
+- Is easy to follow
+- Works well for busy beginners
+- Explains concepts step by step
+
+Focus on:
+
+- Emotional connection
+- Practical action
+- Reflection
+- Planning
+- Empowerment
+
+Keep paragraphs short (approximately **4–6 lines**) to maximize readability.
+
+---
+
+# Step 3 — Formatting Rules (.docx Output)
+
+Use **true Microsoft Word formatting** throughout.
+
+### Apply
+
+- Heading styles
+- Bold formatting
+- Italic formatting
+- Automatic numbered lists
+- Automatic bulleted lists
+
+### Avoid
+
+- Markdown syntax
+- Manual numbering
+- Manual bullet symbols
+
+Use visual variety where appropriate by incorporating:
+
+- Tables
+- Frameworks
+- Blueprints
+- Dividers
+- Callout sections
+
+---
+
+# Step 4 — Length & Depth
+
+Target approximately **8–10 pages**.
+
+Balance:
+
+- Inspiration
+- Practical instruction
+
+Include:
+
+- Detailed explanations
+- Real-world examples
+- Reflection prompts
+- Action steps
+- Small exercises
+
+Ensure sufficient depth while maintaining clarity and readability.
+
+---
+
+# Step 5 — Final Output
+
+Produce:
+
+- An editable eBook preview in **Canvas Mode**
+- Only the **current chapter**
+- A separate Canvas for this chapter
+
+Ensure:
+
+- Clean heading hierarchy
+- Consistent formatting
+- Proper numbering
+- Proper bullets
+- Professional document structure
+- Publication-ready quality
