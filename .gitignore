@@ -1,0 +1,10 @@
+# Local Command Code tooling config (not part of the learning content)
+.commandcode/
+
+# Node.js
+node_modules/
+
+# Logs and temp files
+*.log
+.DS_Store
+Thumbs.db

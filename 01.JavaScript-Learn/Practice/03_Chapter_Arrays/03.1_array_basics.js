@@ -89,7 +89,7 @@ for (let i = 0; i < scores.length; i++) {
 console.log("Using for...of:");
 for (let score of scores) {
     console.log(" ", score);
-}
+} 
 
 // =============================================
 // SUMMARY

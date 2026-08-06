@@ -1,6 +1,22 @@
 # JavaScript Reference Guide
 
-A quick revision guide covering all concepts practiced across Operators, Condition Statements, and Arrays chapters.
+A quick revision guide covering all concepts practiced in the `Practice/` folders.
+
+## Chapter Map
+
+| Chapter | Folder | Topics |
+|---------|--------|--------|
+| 1 | `01_Chapter_Operators` | Arithmetic, comparison, logical, ternary, optional chaining, nullish, instanceof, `in` |
+| 2 | `02_Chapter_conditionstatement` | if/else, switch, truthy/falsy, loops (for/while/do-while/for-of/for-in), break/continue |
+| 3 | `03_Chapter_Arrays` | Array methods, map/filter/reduce, destructuring, set operations, chaining |
+| 4 | `04_Chapter_Functions` | Declarations, expressions, arrows, params, defaults, scope/closures, IIFE, callbacks, recursion |
+| 5 | `05_Chapter_Strings` | String methods, template literals, search, replace/split, parsing, comparison, padding |
+| 6 | `06_Chapter_Objects` | Object basics, methods, `this`, constructors, destructuring, keys/values/entries, cloning |
+| 7 | `07_Chapter_Numbers_Math` | Number methods, Math.round/random/pow, max/min, trig, constants |
+| 8 | `08_Chapter_Dates` | Date creation, getters/setters, formatting, calculations |
+| 9 | `09_Chapter_ES6_Features` | let/const, template literals, destructuring, spread/rest, classes, modules, promises |
+
+Each file is standalone — run it with `node <file>` to see the examples.
 
 ---
 
