@@ -1,0 +1,153 @@
+AI Fundamentals Knowledge Guide - Session Prompts
+=================================================
+Date: 2026-08-07
+
+--------------------------------------------------------------------------------
+PROMPT 1 - Create the AI Fundamentals Guide (markdown)
+--------------------------------------------------------------------------------
+
+Create a complete 'AI Fundamentals' guide to gain knowledge with the help of
+'C:\Apparao Maroju\PW-SSI\09.KnowledgeBase\Prompts\AI_Fundamentals_Knowledge_Guide.md'
+and create .md file under "Books" folder
+
+--------------------------------------------------------------------------------
+PROMPT 2 - Publish the guide as a Word document (book)
+--------------------------------------------------------------------------------
+
+You are an expertised document publisher, who can create and publish great books,
+which can help the world. please Generate a word documet file with the details
+"C:\Apparao Maroju\PW-SSI\09.KnowledgeBase\Books\AI_Fundamentals_Knowledge_Guide.md"
+in the 'Books' folder, you can include any additional pictures, infographs,
+diagrams, animations, symbols. The file should have clear page numbers, document
+name in each page in the footer. Design the first/title page and add author as
+"Apparao Maroju" 'Project Manager - Testing'. The newly created document should
+give a feel to the user as they are reading a real book which got published by a
+professional.
+
+--------------------------------------------------------------------------------
+PROMPT 3 - Remove the 'C2 - Restricted use' text from the document
+--------------------------------------------------------------------------------
+
+the newly created document and pdf has 'C2 - Restricted use' text in all pages
+(in headding).. it should be removed and revised one should be created as a new
+version
+
+--------------------------------------------------------------------------------
+PROMPT 4 - Save all session prompts to a file
+--------------------------------------------------------------------------------
+
+create a prompt.txt file will all the prompts that were been used ealier in this
+session
+
+--------------------------------------------------------------------------------
+OUTPUT FILES CREATED IN THIS SESSION
+--------------------------------------------------------------------------------
+
+Books/AI_Fundamentals_Knowledge_Guide.md            - The complete AI guide (30 chapters)
+Books/AI_Fundamentals_Knowledge_Guide.docx          - Published Word book (110 pages)
+Books/AI_Fundamentals_Knowledge_Guide_Preview.pdf   - PDF preview of the book
+
+--------------------------------------------------------------------------------
+SOURCE PROMPT FILE USED
+--------------------------------------------------------------------------------
+
+Prompts/AI_Fundamentals_Knowledge_Guide.md          - The detailed guide-generation prompt
+
+
+================================================================================
+AI-ENABLED QUALITY ENGINEERING & JAVASCRIPT GUIDE - SESSION PROMPTS
+================================================================================
+Date: 2026-08-07 (afternoon session)
+
+--------------------------------------------------------------------------------
+PROMPT 1 - Create the AI-QE townhall presentation (2 professional slides)
+--------------------------------------------------------------------------------
+
+You are a great Test Manager with 20+ years of experience who delivered high
+quality test deliveries. As we have a townhall, where all the software testing
+team members are gathering, where we have to present and talk about "AI Enabled
+Quality Engineering" for Manual testers. Currently we are trying to perform Test
+Management activities like Test Plan creation, Test Design, Bug creation, Bug
+Triage, etc., using Context Engineering/Prompt engineering by using GitHub
+Copilot. Targeting to enhance to Regression Test case identifier through RAG,
+Testing AI Applications/Agents, AI DevOps and AI Governance in future. Generate
+very professional slides one or two which can help to help us to the way that we
+are working and planning with AI on test management.
+
+--------------------------------------------------------------------------------
+PROMPT 2 - Consolidate into a single professional slide
+--------------------------------------------------------------------------------
+
+Create a single professional slide with all the content that was created in
+"AI-Enabled-Quality-Engineering.pptx".
+
+--------------------------------------------------------------------------------
+PROMPT 3 - Add pictorial representations to the slide
+--------------------------------------------------------------------------------
+
+The newly created presentation has good content, but it does not have any
+symbols, or pictures/graph, diagrams... please generate another version with some
+pictorial representations along with text, which will attract the audience.
+
+--------------------------------------------------------------------------------
+PROMPT 4 - Create a 4-section strategic deck
+--------------------------------------------------------------------------------
+
+Can we create another version which can include/cover:
+1. Context & Functional Testing Shift
+2. Market Trends and Business Impacts
+3. Core Technology & Domain Pillars
+4. Strategic Path Ahead & Roadmap
+
+Please make sure that all the context that was created got covered with pictorial
+representation in a professional manner.
+
+--------------------------------------------------------------------------------
+PROMPT 5 - Regenerate as a single one-pager slide
+--------------------------------------------------------------------------------
+
+Created presentation "AI-Enabled-Quality-Engineering-Strategic.pptx" has good
+context, but it is scattered in multiple slides. Please create a single slide
+with all content in a professional manner.
+
+--------------------------------------------------------------------------------
+PROMPT 6 - Save session prompts to prompt.md
+--------------------------------------------------------------------------------
+
+Review all the prompts that have been used so far to create the presentation,
+generate a standard prompt and save it under prompt.md which can be used as
+reference or for further use in the same path.
+
+--------------------------------------------------------------------------------
+PROMPT 7 - Regenerate one-pager using a template
+--------------------------------------------------------------------------------
+
+Use the file "C:\Apparao Maroju\PW-SSI\10.Presentetion\Examples\Example 1.pptx"
+as template and regenerate the presentation
+"C:\Apparao Maroju\PW-SSI\10.Presentetion\AI-Enabled-Quality-Engineering-OnePager.pptx".
+
+--------------------------------------------------------------------------------
+PROMPT 8 - Publish the JavaScript Training Guide as a Word document
+--------------------------------------------------------------------------------
+
+You are a book publisher with 20+ years of experience in publishing technical
+knowledgeable books to the world. Create a word document with the data that is
+available in "JavaScript_Training_Guide_for_Manual_Testers.md". Please make sure
+that proper page/section alignments, document name & page number in the footer.
+Please use pictures graphs, diagrams, key concepts as Note in the respective
+area, so that by looking into the note area, it can give clear
+revision/important points. Also create a title page, add author as 'Apparao
+Maroju'. The document should be professional, readable, presentable (continues
+data should not breakable across pages).
+
+--------------------------------------------------------------------------------
+OUTPUT FILES CREATED IN THIS SESSION
+--------------------------------------------------------------------------------
+
+10.Presentetion/AI-Enabled-Quality-Engineering.pptx                  - Initial 2-slide deck
+10.Presentetion/AI-Enabled-Quality-Engineering-Summary.pptx          - Single consolidated slide
+10.Presentetion/AI-Enabled-Quality-Engineering-Pictorial.pptx        - Pictorial slide (icons + chart)
+10.Presentetion/AI-Enabled-Quality-Engineering-Strategic.pptx        - 4-section strategic deck
+10.Presentetion/AI-Enabled-Quality-Engineering-OnePager.pptx         - Final one-pager (template-based)
+10.Presentetion/Prompts/prompt.md                                    - Reusable standard prompt file
+09.KnowledgeBase/Books/JavaScript_Training_Guide_for_Manual_Testers.docx - Published Word book (400 pages)
